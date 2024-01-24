@@ -51,8 +51,8 @@ We built generalized linear models (JMP$\circledR$ version 16) using full factor
 
 
 ### Real-world Noise Validation Code
-We included the python scripts for examining the effect of human-assisted label correction and validating the simulation results on CIFAR-10N datasets (CIFAR-10 Worst, CIFAR-1O Aggregate, CIFAR-10 Random1, CIFAR-10 Random2, CIFAR-10 Random3).
+We included the python scripts for examining the effect of human-assisted label correction and validating the simulation results on CIFAR-10N datasets (CIFAR-10 Worst, CIFAR-10 Aggregate, CIFAR-10 Random1, CIFAR-10 Random2, CIFAR-10 Random3).
 
  
  ### Real-world Noise Validation Result Raw Data
-Including four validation result data files for CIFAR-10N datasets (CIFAR-10 Worst, CIFAR-1O Aggregate, CIFAR-10 Random1, CIFAR-10 Random2, CIFAR-10 Random3).
+Including four validation result data files for CIFAR-10N datasets (CIFAR-10 Worst, CIFAR-10 Aggregate, CIFAR-10 Random1, CIFAR-10 Random2, CIFAR-10 Random3).
